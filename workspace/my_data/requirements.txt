@@ -1,0 +1,9 @@
+#-f https://download.pytorch.org/whl/torch_stable.html torch==1.9.1+cpu
+#-f https://download.pytorch.org/whl/torch_stable.html torchvision==0.9.1+cpu
+opencv-python==4.3.0.36
+opencv-contrib-python==4.3.0.36
+opencv-python-headless==4.3.0.36
+tensorflow-cpu
+catalyst==20.04
+catalyst-rl
+pillow<7
